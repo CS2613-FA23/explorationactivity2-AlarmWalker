@@ -140,7 +140,7 @@ I've already had experience using SQLite in other language. It occured to me tha
 
 ## 6. Impact on Learning <a name="impact-on-learning"></a>
 
-Integrating SQLite's database management capabilities with the data parsing functions of Beautiful Soup in python significantly enhanced my understanding of how different libraires can work together.
+Integrating SQLite's database management capabilities with the data parsing functions of Beautiful Soup in python significantly enhanced my understanding of how different libraries can work together.
 
 ## 7. Overall Experience <a name="overall-experience"></a>
 
